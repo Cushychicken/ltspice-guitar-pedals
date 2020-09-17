@@ -1,2 +1,5 @@
+# Ignores simulation outputs from LTSpice
 *.raw
 *.log
+*.7z
+*.net 
